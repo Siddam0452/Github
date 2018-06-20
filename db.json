@@ -87,7 +87,7 @@
         },
       {   
         "inputType":"number",
-        "label":"Age",
+        "label":"DOB",
         "regex":"",
         "required": true,
         "name":"age",
