@@ -71,7 +71,7 @@
         "placeHolder":"Middle Name",
         "classStyles":"control-sm-width",
         "options" : "",
-        "maxlength" : "1"
+        "maxlength" : "5"
         },
         {   
         "inputType":"text",
