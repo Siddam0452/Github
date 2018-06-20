@@ -93,7 +93,7 @@
         "name":"age",
         "Key":"UWQ_Applicant_Age",
         "text":"",
-        "placeHolder":"Age",
+        "placeHolder":"DOB",
         "classStyles":"control-med-width",
         "max":"100",
         "options" : "",
