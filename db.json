@@ -71,7 +71,7 @@
         "placeHolder":"Middle Name",
         "classStyles":"control-sm-width",
         "options" : "",
-        "maxlength" : "5"
+        "maxlength" : "1"
         },
         {   
         "inputType":"text",
@@ -97,7 +97,7 @@
         "classStyles":"dd.mm.yyyy",
         "max":"100",
         "options" : "",
-        "maxlength" : "1"
+        "maxlength" : "10"
         },
       {   
         "inputType":"email",
