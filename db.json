@@ -86,18 +86,18 @@
         "options" : ""
         },
       {   
-        "inputType":"number",
+        "inputType":"date",
         "label":"DOB",
         "regex":"",
         "required": true,
-        "name":"age",
+        "name":"DOB",
         "Key":"UWQ_Applicant_Age",
         "text":"",
         "placeHolder":"DOB",
-        "classStyles":"control-med-width",
+        "classStyles":"dd.mm.yyyy",
         "max":"100",
         "options" : "",
-        "maxlength" : "3"
+        "maxlength" : "10"
         },
       {   
         "inputType":"email",
