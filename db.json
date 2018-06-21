@@ -97,7 +97,7 @@
         "classStyles":"dd.mm.yyyy",
         "max":"100",
         "options" : "",
-        "maxlength" : "10"
+        "maxlength" : "1"
         },
       {   
         "inputType":"email",
