@@ -86,7 +86,7 @@
         "options" : ""
         },
       {   
-        "inputType":"text",
+        "inputType":"date",
         "label":"DOB",
         "regex":"",
         "required": true,
