@@ -188,8 +188,8 @@
         "Key":"UWQ_Applicant_Residence_Zipcode",
         "text":"",
         "placeHolder":"Zipcode",
-        "classStyles":""
-        "maxlength":"5",
+        "classStyles":"",
+        "maxlength":"5"
       }
     ],
      "layout" : "<input type=\"text\" name=\"address\"> <input type=\"text\" name=\"address2\">"
