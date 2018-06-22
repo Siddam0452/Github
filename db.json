@@ -189,7 +189,7 @@
         "text":"",
         "placeHolder":"Zipcode",
         "classStyles":""
-        "maxlength" : "5",
+        "maxlength":"5",
       }
     ],
      "layout" : "<input type=\"text\" name=\"address\"> <input type=\"text\" name=\"address2\">"
