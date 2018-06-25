@@ -50,7 +50,7 @@
     "controls":[
         {   
         "inputType":"text",
-        "label":"First Name",
+        "label":" Name",
         "regex":"",
         "required":true,
         "name":"firstName",
