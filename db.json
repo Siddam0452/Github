@@ -189,13 +189,16 @@
         "text":"",
         "placeHolder":"Zipcode",
         "classStyles":""
-       },
-       {   
+       }
+     ],
+     { "name": "domestic-address",
+     "controls":[ 
+      {   
         "inputType":"text",
-        "label":" Per Address",
+        "label":"Address",
         "regex":"^\\d+\\s[A-z]+\\s[A-z]+",
         "required":true,
-        "name":"Per address",
+        "name":"address",
         "Key":"UWQ_Applicant_Residence_Address",
         "text":"",
         "placeHolder":"Address",
